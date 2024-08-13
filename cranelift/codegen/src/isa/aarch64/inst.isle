@@ -1592,7 +1592,6 @@
     ;; Unsigned multiply add long
     (Umlal8)
     (Umlal16)
-    (Umlal32)
 ))
 
 ;; A vector operation on a pair of elements with one register.
