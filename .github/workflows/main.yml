@@ -1,5 +1,6 @@
 name: CI
 on:
+  workflow_dispatch:
   # Run CI for PRs to `main` and to release branches.
   #
   # Note that PRs to `main` will run a subset of tests and PRs to the
